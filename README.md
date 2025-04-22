@@ -16,10 +16,19 @@ All scripts and inputs, as well as global analyzed outputs, area available here.
 
 ## Dependencies:
 ```
+Model:
 Seaborn:  0.13.2
 Matplotlib:  3.8.4
 Pandas:  2.2.2
 sklearn:  1.6.1
 SHAP:  0.45.1
+
+PjDHFR sequencing:
+pandaseq:  2.11
+vsearch:  2.22.1
+fastqc:  0.12.1
+cutadapt:  4.9
+bwa-mem2:  2.2.1
+samtools 1.21
 ```
 All other packages used are specified in Materials and Methods of the main text. 
