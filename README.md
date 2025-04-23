@@ -1,5 +1,5 @@
 # Rouleau_et_al_2025
-Data and scripts for Rouleau et al. 2025
+Data and scripts for Rouleau et al. 2025 - Predicting antifolate resistance in the unculturable fungal pathogen Pneumocystis jirovecii
 
 Raw read sequencing from function assays is available at BioProject accession PRJNA1243435. Raw read sequencing from PjDHFR sequencing from patient samples is available at BioProject accession SAMN47937957.
 
