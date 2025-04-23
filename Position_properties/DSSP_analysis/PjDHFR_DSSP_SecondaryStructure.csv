@@ -1,0 +1,206 @@
+,DSSP,Sec_struct,simplified
+1,-,None,None
+2,-,None,None
+3,G,3/10 helix,alpha
+4,G,3/10 helix,alpha
+5,G,3/10 helix,alpha
+6,-,None,None
+7,E,Beta ladder,beta
+8,E,Beta ladder,beta
+9,E,Beta ladder,beta
+10,E,Beta ladder,beta
+11,E,Beta ladder,beta
+12,E,Beta ladder,beta
+13,E,Beta ladder,beta
+14,E,Beta ladder,beta
+15,T,H-bonded turn,beta
+16,T,H-bonded turn,beta
+17,-,None,beta
+18,E,Beta ladder,beta
+19,E,Beta ladder,beta
+20,E,Beta ladder,beta
+21,B,Beta bridge,beta
+22,T,H-bonded turn,beta
+23,T,H-bonded turn,beta
+24,B,Beta bridge,beta
+25,-,None,None
+26,S,Bend,None
+27,S,Bend,None
+28,-,None,None
+29,-,None,None
+30,H,Alpha helix,alpha
+31,H,Alpha helix,alpha
+32,H,Alpha helix,alpha
+33,H,Alpha helix,alpha
+34,H,Alpha helix,alpha
+35,H,Alpha helix,alpha
+36,H,Alpha helix,alpha
+37,H,Alpha helix,alpha
+38,H,Alpha helix,alpha
+39,H,Alpha helix,alpha
+40,H,Alpha helix,alpha
+41,H,Alpha helix,alpha
+42,-,None,None
+43,H,Alpha helix,alpha
+44,H,Alpha helix,alpha
+45,H,Alpha helix,alpha
+46,H,Alpha helix,alpha
+47,H,Alpha helix,alpha
+48,H,Alpha helix,alpha
+49,H,Alpha helix,alpha
+50,-,None,None
+51,-,None,None
+52,E,Beta ladder,beta
+53,E,Beta ladder,beta
+54,E,Beta ladder,beta
+55,E,Beta ladder,beta
+56,E,Beta ladder,beta
+57,E,Beta ladder,beta
+58,E,Beta ladder,beta
+59,H,Alpha helix,alpha
+60,H,Alpha helix,alpha
+61,H,Alpha helix,alpha
+62,H,Alpha helix,alpha
+63,H,Alpha helix,alpha
+64,H,Alpha helix,alpha
+65,S,Bend,None
+66,-,None,None
+67,G,3/10 helix,alpha
+68,G,3/10 helix,alpha
+69,G,3/10 helix,alpha
+70,S,Bend,None
+71,S,Bend,None
+72,-,None,None
+73,T,H-bonded turn,None
+74,T,H-bonded turn,None
+75,S,Bend,None
+76,E,Beta ladder,beta
+77,E,Beta ladder,beta
+78,E,Beta ladder,beta
+79,E,Beta ladder,beta
+80,E,Beta ladder,beta
+81,-,None,None
+82,S,Bend,None
+83,-,None,None
+84,S,Bend,None
+85,-,None,None
+86,-,None,None
+87,-,None,None
+88,-,None,None
+89,-,None,None
+90,S,Bend,None
+91,S,Bend,None
+92,E,Beta ladder,beta
+93,E,Beta ladder,beta
+94,E,Beta ladder,beta
+95,E,Beta ladder,beta
+96,S,Bend,None
+97,S,Bend,None
+98,H,Alpha helix,alpha
+99,H,Alpha helix,alpha
+100,H,Alpha helix,alpha
+101,H,Alpha helix,alpha
+102,H,Alpha helix,alpha
+103,H,Alpha helix,alpha
+104,H,Alpha helix,alpha
+105,H,Alpha helix,alpha
+106,H,Alpha helix,alpha
+107,H,Alpha helix,alpha
+108,H,Alpha helix,alpha
+109,T,H-bonded turn,None
+110,S,Bend,None
+111,T,H-bonded turn,None
+112,T,H-bonded turn,None
+113,-,None,None
+114,S,Bend,None
+115,S,Bend,None
+116,-,None,None
+117,E,Beta ladder,beta
+118,E,Beta ladder,beta
+119,E,Beta ladder,beta
+120,E,Beta ladder,beta
+121,E,Beta ladder,beta
+122,E,Beta ladder,beta
+123,-,None,None
+124,-,None,None
+125,-,None,None
+126,H,Alpha helix,alpha
+127,H,Alpha helix,alpha
+128,H,Alpha helix,alpha
+129,H,Alpha helix,alpha
+130,H,Alpha helix,alpha
+131,H,Alpha helix,alpha
+132,H,Alpha helix,alpha
+133,H,Alpha helix,alpha
+134,H,Alpha helix,alpha
+135,-,None,None
+136,T,H-bonded turn,None
+137,T,H-bonded turn,None
+138,E,Beta ladder,beta
+139,E,Beta ladder,beta
+140,E,Beta ladder,beta
+141,E,Beta ladder,beta
+142,E,Beta ladder,beta
+143,E,Beta ladder,beta
+144,E,Beta ladder,beta
+145,E,Beta ladder,beta
+146,E,Beta ladder,beta
+147,-,None,None
+148,S,Bend,None
+149,-,None,None
+150,-,None,None
+151,-,None,None
+152,-,None,None
+153,S,Bend,None
+154,E,Beta ladder,beta
+155,E,Beta ladder,beta
+156,-,None,None
+157,S,Bend,None
+158,S,Bend,None
+159,-,None,None
+160,T,H-bonded turn,None
+161,T,H-bonded turn,None
+162,-,None,None
+163,T,H-bonded turn,None
+164,T,H-bonded turn,None
+165,S,Bend,None
+166,-,None,None
+167,-,None,None
+168,S,Bend,None
+169,E,Beta ladder,beta
+170,E,Beta ladder,beta
+171,E,Beta ladder,beta
+172,-,None,None
+173,-,None,None
+174,H,Alpha helix,alpha
+175,H,Alpha helix,alpha
+176,H,Alpha helix,alpha
+177,H,Alpha helix,alpha
+178,H,Alpha helix,alpha
+179,H,Alpha helix,alpha
+180,H,Alpha helix,alpha
+181,H,Alpha helix,alpha
+182,T,H-bonded turn,None
+183,S,Bend,None
+184,-,None,None
+185,-,None,None
+186,-,None,None
+187,-,None,None
+188,S,Bend,None
+189,-,None,None
+190,E,Beta ladder,beta
+191,E,Beta ladder,beta
+192,E,Beta ladder,beta
+193,T,H-bonded turn,beta
+194,T,H-bonded turn,beta
+195,E,Beta ladder,beta
+196,E,Beta ladder,beta
+197,E,Beta ladder,beta
+198,E,Beta ladder,beta
+199,E,Beta ladder,beta
+200,E,Beta ladder,beta
+201,E,Beta ladder,beta
+202,E,Beta ladder,beta
+203,E,Beta ladder,beta
+204,E,Beta ladder,beta
+205,-,None,None
