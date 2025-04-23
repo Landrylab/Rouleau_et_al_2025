@@ -1,0 +1,63 @@
+***** Format Files ******
+copy file:/project/Docker_GEMME/7588960/7588960.pdb
+***** End Format Files ******
+***** JET analysis ******
+Alignment file:/project/Docker_GEMME/7588960/7588960_A.fasta
+Analysis of sequence: A
+format ok
+Selected 607 sequences before filtering
+Filtering sequences (Iteration 1):
+  -Identity: Removed 0 seqs
+  -Redundancy: Removed 3 seqs
+  -Similar names: Removed 547 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 57 after filtering
+Filtering sequences (Iteration 2):
+  -Identity: Removed 16 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 41 after filtering
+Nb alignments:10 Nb sequences:10
+Final iterated blast partition:31 8 1 1
+proportion=0.5
+selected partition: 6 4 0 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_0.fasta -clw -out /project/Docker_GEMME/7588960/7588960_0.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_1.fasta -clw -out /project/Docker_GEMME/7588960/7588960_1.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_2.fasta -clw -out /project/Docker_GEMME/7588960/7588960_2.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_3.fasta -clw -out /project/Docker_GEMME/7588960/7588960_3.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_4.fasta -clw -out /project/Docker_GEMME/7588960/7588960_4.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_5.fasta -clw -out /project/Docker_GEMME/7588960/7588960_5.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_6.fasta -clw -out /project/Docker_GEMME/7588960/7588960_6.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_7.fasta -clw -out /project/Docker_GEMME/7588960/7588960_7.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_8.fasta -clw -out /project/Docker_GEMME/7588960/7588960_8.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /project/Docker_GEMME/7588960/7588960_9.fasta -clw -out /project/Docker_GEMME/7588960/7588960_9.aln
+Exit value: 0
+
+
+***** End JET analysis ******
