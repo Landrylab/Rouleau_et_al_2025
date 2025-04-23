@@ -3,16 +3,14 @@ Data and scripts for Rouleau et al. 2025
 
 Raw read sequencing from function assays is available at BioProject accession PRJNA1243435. Raw read sequencing from PjDHFR sequencing from patient samples is available at BioProject accession SAMN47937957.
 
-All code was written using Spyder 5.3.3 in Python 3.7.
+All code was written using Spyder 5.3.3 in Python 3.7. This code uses cell-type organization implemented in Spyder. All cells are separated using the Spyder cell separator #%%. Code is intended to be executed in a cell-wise manner, using the folder where the .py file is located as the working directory. Individual scripts are commented within the code itself, explaning what each cell does. 
 
-This code uses cell-type organization implemented in Spyder. All cells are separated using the Spyder cell separator #%%.
+All figures and panels generated from code are separated by panels/figures directories. 
 
-Code is intended to be executed in a cell-wise manner, using the folder where the .py file is located as the working directory. 
-
-Individual scripts are commented within the code itself, explaning what each cell does. 
+Each script is intended to be executed from the directory where it is. Executing each cell one after the other yields all necessary data for all analyses and figures from raw reads. 
 
 The only part of the data/code that is absent from this repository is the full FlexddG output. Each run of saturation mutagenesis using the parameters generated >1.2Tb of data.
-All scripts and inputs, as well as global analyzed outputs, area available here. The only thing missing are the intermediate files, which are available upon request (total size ~5Tb).
+All scripts and inputs, as well as global analyzed outputs, area available here. The only thing missing are the intermediate files, which are available upon request (total size ~5Tb). This output was used as 
 
 ## Dependencies:
 ```
