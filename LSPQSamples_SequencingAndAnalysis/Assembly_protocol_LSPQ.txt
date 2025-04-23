@@ -1,0 +1,16 @@
+>Create alignement
+bwa-mem2 mem -t 8 RU7_ref.fasta ../plate_13_PS3_row_7_PS1_F1F-plate_1_PS4_col_1_PS2_F1F.fasta > out.sam
+## Auto, to check out later
+bwa mem genome.fa reads.fastq | samtools sort -o myfile_sorted.bam
+
+>Create bam
+samtools view -bT RU7_ref.fasta out.sam > out.bam
+
+>Sort
+samtools sort out.bam -o out_sorted.bam
+
+>Create bam index
+samtools index out_sorted.bam
+
+>Get concensus
+samtools consensus -f fasta out_sorted.bam -o cons.fa   
