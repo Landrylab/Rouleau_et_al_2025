@@ -5,7 +5,7 @@ Raw read sequencing from function assays is available at BioProject accession PR
 
 All code was written using Spyder 5.3.3 in Python 3.7. This code uses cell-type organization implemented in Spyder. All cells are separated using the Spyder cell separator #%%. Code is intended to be executed in a cell-wise manner, using the folder where the .py file is located as the working directory. Individual scripts are commented within the code itself, explaning what each cell does. 
 
-All figures and panels generated from code are separated by panels/figures directories. 
+All figures and panels generated from code are separated by panels/figures directories. All generated models are available in the Models folder. Figures generated directly from models for benchmarking (Figure 3, S6 and S9) are inline with model code, and will be generated in a timely manner when running model generation. 
 
 Each script is intended to be executed from the directory where it is. Executing each cell one after the other yields all necessary data for all analyses and figures from raw reads. 
 
