@@ -10,7 +10,7 @@ All figures and panels generated from code are separated by panels/figures direc
 Each script is intended to be executed from the directory where it is. Executing each cell one after the other yields all necessary data for all analyses and figures from raw reads. 
 
 The only part of the data/code that is absent from this repository is the full FlexddG output. Each run of saturation mutagenesis using the parameters generated >1.2Tb of data.
-All scripts and inputs, as well as global analyzed outputs, area available here. The only thing missing are the intermediate files, which are available upon request (total size ~5Tb). This output was used as 
+All scripts and inputs, as well as global analyzed outputs, area available here. The only thing missing are the intermediate files, which are available upon request (total size ~5Tb). Intermediate output structures were used to compute the change in distance caused by mutations for median, IQR and skewness analyses. 
 
 ## Dependencies:
 ```
